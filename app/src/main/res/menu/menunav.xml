@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ichomenocolor"
+        android:title="Home" />
+    <item
+        android:id="@+id/ic_explore"
+        android:icon="@drawable/icexplorenocolor"
+        android:title="Explore" />
+    <item
+        android:id="@+id/ic_favorite"
+        android:icon="@drawable/iclovenocolor"
+        android:title="Favorite" />
+    <item
+        android:id="@+id/ic_profile"
+        android:icon="@drawable/icprofilnocolor"
+        android:title="Profile" />
+</menu>
